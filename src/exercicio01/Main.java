@@ -4,11 +4,11 @@ import java.text.DecimalFormat;
 import java.util.Random;
 import java.util.Scanner;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        conta01 conta = new conta01();
+        Conta conta = new Conta();
         Random rd = new Random();
         DecimalFormat df = new DecimalFormat("#,##0.00");
         double valor;

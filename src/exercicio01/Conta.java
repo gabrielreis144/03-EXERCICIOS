@@ -1,6 +1,6 @@
 package exercicio01;
 
-public class conta01 {
+public class Conta {
 
 
         String correntista;
