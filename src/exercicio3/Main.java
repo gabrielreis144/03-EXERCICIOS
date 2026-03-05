@@ -29,7 +29,7 @@ public class Main {
 
         System.out.println(" salario Final: R$ ");
         for (Professor pf : professores){
-            System.out.println("Professor: ", pf.gabriel());
+            System.out.println("Professor: ");
         }
     }
 }
